@@ -1,5 +1,4 @@
-#  Age calculator app
-[LIVE SITE](https://pragyajha24.github.io/Age-Calculator/)
+#  [Age calculator app](https://pragyajha24.github.io/Age-Calculator/)
 
 ![Screenshot (279)](https://user-images.githubusercontent.com/78782644/229750201-1782c9ed-2a92-4738-8400-fa041bc2f26e.png)
 
