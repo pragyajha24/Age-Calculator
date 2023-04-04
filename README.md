@@ -1,10 +1,10 @@
 #  Age calculator app
 
-![Screenshot (279)](https://user-images.githubusercontent.com/78782644/229748246-9adf66db-fd45-4ef9-8331-b4b93ded545f.png)
+![Screenshot (279)](https://user-images.githubusercontent.com/78782644/229749641-48390eaf-103b-4b83-a5cf-39c90ea2cd72.png)
 
+![Screenshot (280)](https://user-images.githubusercontent.com/78782644/229749717-3f439810-e0ac-4bf7-9c50-740b0b7eb3bb.png)
 
  Users are able to: 
-
 - View an age in years, months, and days after submitting a valid date through the form
 - Receive validation errors if:
   - Any field is empty when the form is submitted
