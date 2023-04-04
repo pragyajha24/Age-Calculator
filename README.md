@@ -1,8 +1,8 @@
 #  Age calculator app
 
-![Screenshot (279)](https://user-images.githubusercontent.com/78782644/229749641-48390eaf-103b-4b83-a5cf-39c90ea2cd72.png)
+![Screenshot (279)](https://user-images.githubusercontent.com/78782644/229750201-1782c9ed-2a92-4738-8400-fa041bc2f26e.png)
+![Screenshot (280)](https://user-images.githubusercontent.com/78782644/229750211-17f26a5a-e6d7-43cf-b83c-d5cca113a049.png)
 
-![Screenshot (280)](https://user-images.githubusercontent.com/78782644/229749717-3f439810-e0ac-4bf7-9c50-740b0b7eb3bb.png)
 
  Users are able to: 
 - View an age in years, months, and days after submitting a valid date through the form
